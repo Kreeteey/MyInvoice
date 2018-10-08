@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="invoice_title" type="id" />
+    <item name="invoice_cmnt" type="id" />
+    <item name="invoice_shop" type="id" />
+    <item name="invoice_radio_group" type="id" />
+    <item name="invoice_date" type="id" />
+    <item name="cancel_button" type="id" />
+    <item name="invoice_solved" type="id" />
+    <item name="save_button" type="id" />
+    <item name="dialog_date_picker" type="id" />
+</resources>
